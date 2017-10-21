@@ -6,8 +6,8 @@ learn more about react and redux
 
 the website shows random facts based on the year that the happene
 
-to start up the project run
+to start up the project run:
 
-npm run start
+    npm run start
 
 enjoy!
