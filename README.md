@@ -4,7 +4,7 @@ main focus of this project was to test out styled-components and
 learn more on react and redux
 
 
-the website shows random facts based on the year that the happened
+the website shows random facts based on the year that the happene
 
 to start up the project run
 
